@@ -1,0 +1,22 @@
+doctype html
+html
+  head
+    title Natours | #{title}
+    link(rel='stylesheet' href='/css/style.css')
+    link(rel='shortcut icon' type='image/png' href='/img/favicon.png' )
+
+  body
+    // Header
+    include _header
+
+    // Content
+    block content
+      h1 This is a placeholder heading
+
+    // Footer
+    include _footer
+
+    //- script(src='https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js')
+    //- script(src='/js/login.js')
+    script(src='/js/bundle.js')
+    

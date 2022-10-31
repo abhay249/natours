@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Jonas Sir",
+    "course": "javascript",
+    "content": "22 modules",
+    "videos": "320",
+    "hours": "69 hrs"
+  },
+  {
+    "name": "Jonas Sir",
+    "course": "node-express-mongodb",
+    "content": "15 modules",
+    "videos": "229",
+    "hours": "48 hrs"
+  },
+  {
+    "name": "Jonas Sir",
+    "course": "html",
+    "content": "12 modules",
+    "videos": "220",
+    "hours": "48 hrs"
+  },
+  {
+    "name": "Jonas Sir",
+    "course": "react",
+    "content": "10 modules",
+    "videos": "200",
+    "hours": "50 hrs"
+  },
+  { "id": 9, "name": "Test Tour", "duration": 10, "difficulty": "easy" },
+  { "id": 10, "name": "Test Tour", "duration": 10, "difficulty": "easy" },
+  { "id": 11, "name": "Test Tour 2", "duration": 5, "difficulty": "easy" }
+]
